@@ -1,0 +1,100 @@
+
+P,TD,DIV  {
+	font-family: Arial, Helvetica, sans-serif;
+ font-size: 14px;
+ font-weight: normal;
+ color: #000000;
+ line-height: 24px;
+}
+
+
+.none {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 11px;
+ font-weight: normal;
+ color: #000000;
+ line-height: 24px;
+}
+
+
+
+.headertext {
+font-family: "Trebuchet MS";
+	font-size: 24px; 
+font-weight: normal;
+	color: #000000;
+	letter-spacing: 4px;
+}
+
+
+.headline {
+font-family: "Trebuchet MS";
+	font-size: 30px;
+ font-weight: normal;
+	color: #000000;
+	letter-spacing: 4px;
+}
+
+.headertextsmall {font-family: "Trebuchet MS";
+	font-size: 16px;
+	font-weight: bold;
+	color: #000000;
+}
+
+
+.maintext {font-family: Verdana, Arial, Helvetica, sans-serif;`font-size: 11px;
+ font-weight: normal; color: #000000;
+ line-height: 24px;
+}
+.maintext A {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFCC99;
+	text-decoration: none}
+	
+
+.maintext A:hover {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none}
+
+
+
+.maintextsub {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 11px;
+ font-weight: normal;
+ color: #000000;
+ line-height: 18px;
+}
+.maintextsub A {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFCC99;
+	text-decoration: none}
+	
+
+.maintextsub A:hover {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none}
+
+
+
+.footertext {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 10px;
+ font-weight: normal;
+ color: #000000;
+}
+
+.footertext A:hover {font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+ font-weight: normal;
+ color: #000000;
+	text-decoration: none}
+	
